@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: htpps://jBrunoTemple.github.io/sitemap.xml
